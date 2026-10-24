@@ -1,0 +1,16 @@
+country_iso,year,collected_tonnes,recycled_mwh_est,recycling_type,source
+DEU,2022,8500,42500,hydrometallurgical,Öko-Institut 2023
+DEU,2023,12000,60000,hydrometallurgical,Öko-Institut 2024
+CHN,2021,50000,250000,pyrometallurgical,MIIT China 2022
+CHN,2022,70000,350000,pyrometallurgical,MIIT China 2023
+CHN,2023,95000,475000,hydrometallurgical,MIIT China 2024
+USA,2022,5000,25000,pyrometallurgical,DOE Li-Bridge 2023
+USA,2023,8000,40000,hydrometallurgical,DOE Li-Bridge 2024
+KOR,2022,3000,15000,hydrometallurgical,MOTIE Korea 2023
+JPN,2022,2500,12500,hydrometallurgical,METI Japan 2023
+FRA,2022,500,2500,hydrometallurgical,ADEME 2023
+GBR,2022,800,4000,pyrometallurgical,UKRI 2023
+SWE,2023,400,2000,hydrometallurgical,Northvolt Sustainability
+BEL,2022,1200,6000,hydrometallurgical,Umicore AR 2023
+EUR,2022,18000,90000,mixed,EU EPBA 2023
+EUR,2023,28000,140000,mixed,EU EPBA 2024
